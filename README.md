@@ -1,1 +1,1 @@
-.tsv mas data, .yipbn mas pyton
+.tsv mas data, .ipynb mas pyton
