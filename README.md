@@ -1,1 +1,1 @@
-Repository for term project - Principes of data science
+**Repository for term project - Principes of data science**
